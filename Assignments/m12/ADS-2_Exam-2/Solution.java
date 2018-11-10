@@ -22,7 +22,7 @@ final class Solution {
         int ed = Integer.parseInt(scan.nextLine());
         Edge edge;
         EdgeWeightedGraph eg = new EdgeWeightedGraph(ver, ed);
-        for(int i = 0; i < ed; i++) {
+        for (int i = 0; i < ed; i++) {
             String[] token = scan.nextLine().split(" ");
             edge = new Edge(Integer.parseInt(token[0]),
                                Integer.parseInt(token[1]),
@@ -32,26 +32,25 @@ final class Solution {
         String caseToGo = scan.nextLine();
         switch (caseToGo) {
         case "Graph":
-        	//Print the Graph Object.
             System.out.println(eg);
             break;
         case "DirectedPaths":
-        	// Handle the case of DirectedPaths, where two
+            // Handle the case of DirectedPaths, where two
             // integers are given.
-			// First is the source and second is the destination.
-			// If the path exists print the distance between them.
-			// Other wise print "No Path Found."
+            // First is the source and second is the destination.
+            // If the path exists print the distance between them.
+            // Other wise print "No Path Found."
             System.out.println("No Path Found.");
             break;
         case "ViaPaths":
-        	// Handle the case of ViaPaths, where three integers
+            // Handle the case of ViaPaths, where three integers
             //  are given.
-			// First is the source and second is the via is
+            // First is the source and second is the via is
             // the one where
             //  path should pass throuh.
-			// third is the destination.
-			// If the path exists print the distance between them.
-			// Other wise print "No Path Found."
+            // third is the destination.
+            // If the path exists print the distance between them.
+            // Other wise print "No Path Found."
             System.out.println("No Path Found.");
             break;
         default:

@@ -110,6 +110,7 @@ class EdgeWeightedGraph {
      *The constructor to initialize.
      *
      * @param      v vertices count
+     * @param       e edges
      */
     EdgeWeightedGraph(final int v, final int e) {
         this.vertices = v;

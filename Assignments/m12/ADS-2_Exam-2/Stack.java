@@ -34,14 +34,14 @@ public class Stack<Item> implements Iterable<Item> {
         n = 0;
     }
     /**
-     * Returns true if this stack is empty.
+     * @return true if this stack is empty.
      * Time complexity for this method is O(1).
      */
     public boolean isEmpty() {
         return first == null;
     }
     /**
-     * Returns the number of items in this stack.
+     * @return the number of items in this stack.
      * Time complexity for this method is O(1).
      */
     public int size() {
@@ -71,14 +71,14 @@ public class Stack<Item> implements Iterable<Item> {
         return item;                   // return the saved item
     }
     /**
-     * Returns (but does not remove) the item most recently
+     * @return (but does not remove) the item most recently
      * Time complexity for this method is O(1).
      */
     public Item peek() {
         return first.item;
     }
     /**
-     * Returns a string representation of this stack.
+     * @return a string representation of this stack.
      * Time complexity for this method is O(N).
      */
     public String toString() {

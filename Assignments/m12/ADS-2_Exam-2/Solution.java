@@ -1,7 +1,21 @@
+/**.
+ * Import Scanner Class
+ */
 import java.util.Scanner;
+/**.
+ * Class Solution
+ */
 final class Solution {
+    /**.
+     * Constructs the object.
+     */
     private Solution() {
     }
+    /**.
+     * Main function
+     *
+     * @param      args  The arguments
+     */
     public static void main(final String[] args) {
         Scanner scan = new Scanner(System.in);
         int ver = Integer.parseInt(scan.nextLine());
@@ -22,15 +36,19 @@ final class Solution {
             System.out.println(eg);
             break;
         case "DirectedPaths":
-        	// Handle the case of DirectedPaths, where two integers are given.
+        	// Handle the case of DirectedPaths, where two
+            // integers are given.
 			// First is the source and second is the destination.
 			// If the path exists print the distance between them.
 			// Other wise print "No Path Found."
             System.out.println("No Path Found.");
             break;
         case "ViaPaths":
-        	// Handle the case of ViaPaths, where three integers are given.
-			// First is the source and second is the via is the one where path should pass throuh.
+        	// Handle the case of ViaPaths, where three integers
+            //  are given.
+			// First is the source and second is the via is
+            // the one where
+            //  path should pass throuh.
 			// third is the destination.
 			// If the path exists print the distance between them.
 			// Other wise print "No Path Found."

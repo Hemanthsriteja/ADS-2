@@ -3,6 +3,11 @@
  *
  * @param      <Value>  The value
  */
+/**.
+ * Class for tst.
+ *
+ * @param      <Value>  The value
+ */
 public class TST<Value> {
     /**
      * { var_description }.
@@ -45,7 +50,9 @@ public class TST<Value> {
     public int size() {
         return n;
     }
-
+    /**.
+     * { item_description }
+     */
     /**
      * Does this symbol table contain the given key?.
      * @param key the key

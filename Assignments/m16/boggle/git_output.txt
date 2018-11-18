@@ -1,0 +1,101 @@
+warning: LF will be replaced by CRLF in Assignments/m16/boggle/Bag.java.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Assignments/m16/boggle/BoggleBoard.java.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Assignments/m16/boggle/BoggleGame.java.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Assignments/m16/boggle/BoggleSolver.java.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Assignments/m16/boggle/Files/board-16q.txt.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Assignments/m16/boggle/Files/board-antidisestablishmentarianisms.txt.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Assignments/m16/boggle/Files/board-aqua.txt.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Assignments/m16/boggle/Files/board-couscous.txt.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Assignments/m16/boggle/Files/board-diagonal.txt.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Assignments/m16/boggle/Files/board-dichlorodiphenyltrichloroethanes.txt.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Assignments/m16/boggle/Files/board-dodo.txt.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Assignments/m16/boggle/Files/board-estrangers.txt.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Assignments/m16/boggle/Files/board-horizontal.txt.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Assignments/m16/boggle/Files/board-inconsequentially.txt.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Assignments/m16/boggle/Files/board-noon.txt.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Assignments/m16/boggle/Files/board-pneumonoultramicroscopicsilicovolcanoconiosis.txt.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Assignments/m16/boggle/Files/board-points0.txt.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Assignments/m16/boggle/Files/board-points1.txt.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Assignments/m16/boggle/Files/board-points100.txt.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Assignments/m16/boggle/Files/board-points1000.txt.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Assignments/m16/boggle/Files/board-points1111.txt.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Assignments/m16/boggle/Files/board-points1250.txt.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Assignments/m16/boggle/Files/board-points13464.txt.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Assignments/m16/boggle/Files/board-points1500.txt.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Assignments/m16/boggle/Files/board-points2.txt.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Assignments/m16/boggle/Files/board-points200.txt.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Assignments/m16/boggle/Files/board-points2000.txt.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Assignments/m16/boggle/Files/board-points26539.txt.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Assignments/m16/boggle/Files/board-points3.txt.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Assignments/m16/boggle/Files/board-points300.txt.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Assignments/m16/boggle/Files/board-points4.txt.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Assignments/m16/boggle/Files/board-points400.txt.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Assignments/m16/boggle/Files/board-points4410.txt.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Assignments/m16/boggle/Files/board-points4527.txt.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Assignments/m16/boggle/Files/board-points4540.txt.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Assignments/m16/boggle/Files/board-points5.txt.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Assignments/m16/boggle/Files/board-points500.txt.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Assignments/m16/boggle/Files/board-points750.txt.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Assignments/m16/boggle/Files/board-points777.txt.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Assignments/m16/boggle/Files/board-q.txt.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Assignments/m16/boggle/Files/board-quinquevalencies.txt.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Assignments/m16/boggle/Files/board-qwerty.txt.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Assignments/m16/boggle/Files/board-rotavator.txt.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Assignments/m16/boggle/Files/board-vertical.txt.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Assignments/m16/boggle/Files/board4x4.txt.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Assignments/m16/boggle/Files/dictionary-16q.txt.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Assignments/m16/boggle/Files/dictionary-2letters.txt.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Assignments/m16/boggle/Files/dictionary-algs4.txt.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Assignments/m16/boggle/Files/dictionary-common.txt.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Assignments/m16/boggle/Files/dictionary-enable2k.txt.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Assignments/m16/boggle/Files/dic
